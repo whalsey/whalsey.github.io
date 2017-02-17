@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://localhost:8080/" href="falcon.jnlp">
+	<information>
+		<title>Falcon</title>
+		<vendor>Oak Ridge National Laboratory</vendor>
+		<homepage href="http://localhost:8080/" />
+		<description>Falcon</description>
+	</information>
+	<security>
+		<all-permissions/>
+	</security>
+	<resources>
+		<j2se version="1.6+" />
+		<jar href="falcon-0.3.7-jar-with-dependencies.jar" />
+	</resources>
+	<application-desc main-class="gov.ornl.csed.cda.Falcon.FalconMain" />
+</jnlp>

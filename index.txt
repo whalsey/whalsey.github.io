@@ -1,0 +1,5 @@
+<script src="https://www.java.com/js/deployJava.js"></script>
+<script>
+    var url = "http://localhost:8080/falcon.jnlp";
+    deployJava.createWebStartLaunchButton(url);
+</script>
