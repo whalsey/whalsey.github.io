@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<jnlp spec="1.0+" codebase="http://localhost:8080/" href="falcon.jnlp">
+<jnlp spec="1.0+" codebase="https://whalsey.github.io/" href="falcon.jnlp">
 	<information>
 		<title>Falcon</title>
 		<vendor>Oak Ridge National Laboratory</vendor>
-		<homepage href="http://localhost:8080/" />
+		<homepage href="https://whalsey.github.io/" />
 		<description>Falcon</description>
 	</information>
 	<security>
