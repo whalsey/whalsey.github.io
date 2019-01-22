@@ -1,0 +1,32 @@
+html, body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 2px;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  font-family: "Open Sans", sans-serif;
+}
+.center {
+    margin: auto;
+    width: 30%;
+    height: 100%;
+    text-align: center;
+    padding-top: 17%;
+}
+.center img {
+    width: 100px;
+    height: auto;
+}
+.center p, .center h1 {
+    margin: 0 0 0 0;
+}
+
+.links a {
+    text-decoration: none;
+    color: black;
+}
+
+.links a:hover {
+    color: grey;
+}
