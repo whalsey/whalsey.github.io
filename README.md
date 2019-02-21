@@ -1,3 +1,3 @@
-# Repository for [whalsey.github.io](https://whalsey.github.io)
+# Repository for [50asterisk.com](https://50asterisk.com)
 
 This is the personal site for William Halsey.
