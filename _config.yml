@@ -22,6 +22,7 @@ baseurl:
 url: http://50asterisk.com
 twitter_username: billhank
 github_username:  whalsey
+linkedin_username: William Halsey
 
 # Build settings
 markdown: kramdown
