@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Intro to Trello"
-date:   2019-02-25 16:29:00 -0500
+date:   2020-02-25 16:29:00 -0500
 categories: trello time management
 ---
 
