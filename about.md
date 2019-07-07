@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-![img_headshot][headshot]
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-I am a PhD student in Data Science and Engineering in the
-[Bredesen Center for Interdisciplinary Studies and Graduate Education](https://bredesencenter.utk.edu) at
-[the University of Tennessee, Knoxville](https://www.utk.edu). For the past two years I have been researching how data
-science principles may be leveraged for metal additive manufacturing throughout the entire toolchain - modeling and
-simulations, process optimization, data management, in-situ monitoring, defect detection, and post-build analysis.
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-Additionally, I am interested in studying and developing policies for data collection, data management and algorithms
-as these tools become more pervasive and consequential in our society.
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
-[headshot]: /assets/headshot-crop.png
+
+[jekyll-organization]: https://github.com/jekyll
