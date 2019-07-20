@@ -1,7 +1,7 @@
 title: 5✱ ASTERISK
 author: William Halsey
 email: whalsey@vols.utk.edu
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "show_excerpts:"
   The personal site for William Halsey.
 
 show_excerpts: false # set to true to show excerpts on the homepage
