@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to My Site!"
 date:   2019-02-15 13:10:20 -0500
-categories: jekyll update
+categories: miscellaneous
 ---
 
 This is the example post that accompanies a new Jekyll site. Several great tutorials for creating your own personal

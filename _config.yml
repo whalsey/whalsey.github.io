@@ -45,9 +45,6 @@ minima:
 
 baseurl:
 url: http://50asterisk.com
-twitter_username: billhank
-github_username:  whalsey
-linkedin_username: william-halsey-b8206750
 
 # Build settings
 markdown: kramdown
