@@ -1,5 +1,5 @@
 title: 5✱ ASTERISK
-#image: "assets/images/50asterisk.png"
+#image: "http://50asterisk.com/assets/images/50asterisk.png"
 author: William Halsey
 email: whalsey@vols.utk.edu
 description: >- # this means to ignore newlines until "show_excerpts:"
@@ -15,14 +15,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    # twitter: jekyllrb
-    # github:  jekyll
+     twitter: billhank
+     github:  whalsey
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+     linkedin: william-halsey-b8206750
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
