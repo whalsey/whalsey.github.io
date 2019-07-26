@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Slow and the Serious: PhD Drift"
-date:   2019-07-33 12:00:00 -0500
+date:   2019-07-26 12:00:00 -0500
 categories: phd
 ---
 
