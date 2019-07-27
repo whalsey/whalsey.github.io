@@ -7,7 +7,7 @@ categories: phd
 
 I recently (over a year ago as of this writing) have  begun a PhD program. Over the duration of the program many PhD's may write a smattering of journal and conference papers as well as the more common posters and Power Point presentations. But everyone knows that the climax of PhD work is writing and defending the dissertation.
 
-As I work on what will be my first journal paper, I find myself taking advantage of every opportunity to avoid writing (this included?). However, the importance of publishing is not lost on me. It is to the point where avoiding writing is permeating my free time.
+As I work on what will be my first journal paper, I find myself taking advantage of every opportunity to avoid writing (this included?). However, the importance of publishing is not lost on me. 
 
 Recently, my fiance and I were watching one of the Fast and Furious movies. This is what she heard.
 
@@ -15,4 +15,4 @@ Recently, my fiance and I were watching one of the Fast and Furious movies. This
 
 This is what I heard.
 
-<img src="">
+<img src="https://media.giphy.com/media/H3qsEezIO53NxOSSC4/giphy.gif">
