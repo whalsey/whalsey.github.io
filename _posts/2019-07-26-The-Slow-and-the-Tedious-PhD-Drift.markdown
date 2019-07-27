@@ -11,8 +11,8 @@ As I work on what will be my first journal paper, I find myself taking advantage
 
 Recently, my fiance and I were watching one of the Fast and Furious movies. This is what she heard.
 
-<img src="https://media1.tenor.com/images/6c1032ca02ca8f9d7bfa1dae6d372ad0/tenor.gif?itemid=4922776">
+<img src="https://media1.tenor.com/images/6c1032ca02ca8f9d7bfa1dae6d372ad0/tenor.gif?itemid=4922776" class="center">
 
 This is what I heard.
 
-<img src="https://media.giphy.com/media/H3qsEezIO53NxOSSC4/giphy.gif">
+<img src="https://media.giphy.com/media/H3qsEezIO53NxOSSC4/giphy.gif" class="center">
