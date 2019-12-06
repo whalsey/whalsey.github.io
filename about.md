@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![img_headshot][headshot]
+![img_headshot][headshot]{:height="36px" width="36px"}
 
 I am a PhD student in Data Science and Engineering in the
 [Bredesen Center for Interdisciplinary Studies and Graduate Education](https://bredesencenter.utk.edu) at
