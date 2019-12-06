@@ -15,4 +15,4 @@ simulations, process optimization, data management, in-situ monitoring, defect d
 Additionally, I am interested in studying and developing policies for data collection, data management and algorithms
 as these tools become more pervasive and consequential in our society.
 
-[headshot]: /assets/images/headshot-crop.png
+[headshot]: /assets/images/william-halsey-headshot-round.png
